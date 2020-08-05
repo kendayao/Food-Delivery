@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a responsive website created for a fictional startup company. This website was built using HTML, CSS, and jQuery.
+This is a front end responsive website created for a fictional startup company. This website was built using HTML, CSS, and jQuery.
 
 ## Table of Contents
 
